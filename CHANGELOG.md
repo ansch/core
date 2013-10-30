@@ -18,6 +18,7 @@ Fixes:
 - Pass-meter was hidden, because no height was set, #997.
 - Do not show multi-lingual user settings if multi-lingual is disabled, #1050.
 - Fixed Admin breadcrumbs does not work with system plugins, #1056.
+- Fixed function.jquery_datepicker.php does't handle minDate and maxDate correctly, #1360.
 
 Features:
 - Show an error message if version number of a module is incorrect.
